@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://yerkeboss.github.io/csb-lrkc6m/static/css/main.4d681f17.chunk.css",
+    "main.js": "https://yerkeboss.github.io/csb-lrkc6m/static/js/main.154f17df.chunk.js",
+    "main.js.map": "https://yerkeboss.github.io/csb-lrkc6m/static/js/main.154f17df.chunk.js.map",
+    "runtime-main.js": "https://yerkeboss.github.io/csb-lrkc6m/static/js/runtime-main.8264c116.js",
+    "runtime-main.js.map": "https://yerkeboss.github.io/csb-lrkc6m/static/js/runtime-main.8264c116.js.map",
+    "static/js/2.64ce3e63.chunk.js": "https://yerkeboss.github.io/csb-lrkc6m/static/js/2.64ce3e63.chunk.js",
+    "static/js/2.64ce3e63.chunk.js.map": "https://yerkeboss.github.io/csb-lrkc6m/static/js/2.64ce3e63.chunk.js.map",
+    "index.html": "https://yerkeboss.github.io/csb-lrkc6m/index.html",
+    "precache-manifest.9401873269ec7fd4287be492a1204c12.js": "https://yerkeboss.github.io/csb-lrkc6m/precache-manifest.9401873269ec7fd4287be492a1204c12.js",
+    "service-worker.js": "https://yerkeboss.github.io/csb-lrkc6m/service-worker.js",
+    "static/css/main.4d681f17.chunk.css.map": "https://yerkeboss.github.io/csb-lrkc6m/static/css/main.4d681f17.chunk.css.map",
+    "static/js/2.64ce3e63.chunk.js.LICENSE.txt": "https://yerkeboss.github.io/csb-lrkc6m/static/js/2.64ce3e63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8264c116.js",
+    "static/js/2.64ce3e63.chunk.js",
+    "static/css/main.4d681f17.chunk.css",
+    "static/js/main.154f17df.chunk.js"
+  ]
+}
